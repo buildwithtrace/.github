@@ -12,7 +12,7 @@
   <a href="https://buildwithtrace.com">Website</a> |
   <a href="https://docs.buildwithtrace.com">Documentation</a> |
   <a href="https://buildwithtrace.com/download">Download</a> |
-  <a href="https://discord.gg/p4TtrQf9">Discord</a>
+  <a href="https://discord.gg/UNUvQxneCr">Discord</a>
 </p>
 
 ---
