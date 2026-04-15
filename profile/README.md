@@ -2,8 +2,6 @@
   <img src="./trace-logo.png" alt="Trace" width="80" height="80">
 </p>
 
-<h1 align="center">Trace</h1>
-
 <p align="center">
   <strong>The fastest path from idea to manufactured PCB.</strong>
 </p>
