@@ -35,7 +35,7 @@ Built on [KiCad](https://www.kicad.org), enhanced with intelligent tools.
 
 ## Contributing
 
-We welcome contributions. See our [Contributing Guide](https://docs.buildwithtrace.com/docs/contributing) for details.
+We welcome contributions. See our [Contributing Guide](https://docs.buildwithtrace.com/contributing) for details.
 
 ---
 
