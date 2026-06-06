@@ -93,5 +93,5 @@ We welcome contributions to our open-source libraries and build tooling. See our
 ---
 
 <p align="center">
-  <sub>Trace is built on KiCad, an open-source EDA suite licensed under GPL.<br>Proprietary AI modules © 2024–2026 Trace.</sub>
+  <sub>Trace is built on KiCad, an open-source EDA suite licensed under GPL.<br>Proprietary AI modules © 2025–2026 Trace.</sub>
 </p>
