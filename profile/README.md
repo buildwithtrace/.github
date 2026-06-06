@@ -30,7 +30,7 @@ Current version: **1.4.0**
 | **Verification** | ERC/DRC with AI suggestions, hierarchical schematic support (multi-sheet) |
 | **Manufacturing** | Gerber/drill/BOM/pick-and-place export, PCB ordering (PCBWay + Pikkolo partners) |
 | **Collaboration** | Version control (local + cloud), team workspaces with per-seat billing |
-| **Flexibility** | BYOK — bring your own Anthropic, OpenAI, or Gemini API key |
+| **Flexibility** | BYOK — bring your own API key (supports multiple LLM providers) |
 
 ## Ecosystem
 
