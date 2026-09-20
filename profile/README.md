@@ -25,7 +25,7 @@ Current version: **1.4.0**
 | Category | Capabilities |
 |----------|-------------|
 | **AI Design** | Natural-language schematic generation, AI-powered suggestions, Plan mode (research → questions → plan → approve → execute) |
-| **Routing** | Quick auto-route (freerouting) + Advanced layout (DeepPCB cloud engine), Matched length tuning for high-speed signals |
+| **Routing** | Quick auto-route (freerouting) + Advanced layout (cloud placement and routing engine), Matched length tuning for high-speed signals |
 | **Components** | Nexar/DigiKey distributor search, datasheet parsing (LlamaParse), 30K+ symbols & 24K+ footprints |
 | **Verification** | ERC/DRC with AI suggestions, hierarchical schematic support (multi-sheet) |
 | **Manufacturing** | Gerber/drill/BOM/pick-and-place export, PCB ordering (PCBWay + Pikkolo partners) |
